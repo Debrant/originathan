@@ -1,7 +1,12 @@
 ---
-layout: post
-title: "Some articles are just so short that we have to make the footer stick"
-categories: misc
+title: A random extra episode - EXTRA
+layout: episode
+categories: [Example, Jekyll]
+type: extra # I use this to split main episodes to extra ones
+description: Description goes here
+file: https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3 #Link to your .mp3 file
+length: "52:14" # mm:ss
+videoid: wA3HUv1buvU #Copy here only the id of your YouTube video. Optional
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here you can write things for this episode.
+For instructions on how to use this theme, see the [repo on GitHub](https://github.com/PandaSekh/Jekyll-Podcaster).
